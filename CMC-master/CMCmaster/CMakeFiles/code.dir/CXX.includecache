@@ -1,0 +1,192 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/arguments.h
+string.h
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/main.cc
+getopt.h
+-
+iostream
+-
+iomanip
+-
+arguments.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/arguments.h
+src/mytime.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/mytime.h
+src/coder.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/coder.h
+src/CoderNoMean.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderNoMean.h
+src/CoderWithMean.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderWithMean.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderNoMean.cc
+CoderNoMean.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderNoMean.h
+exception
+-
+mytime.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/mytime.h
+show.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/show.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderNoMean.h
+omp.h
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+ProgressBar.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/ProgressBar.h
+clr.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/clr.h
+coder.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/coder.h
+file.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/file.h
+list.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/list.h
+simple_model.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/simple_model.h
+table.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/table.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderWithMean.cc
+CoderWithMean.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderWithMean.h
+ProgressBar.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/ProgressBar.h
+mytime.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/mytime.h
+show.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/show.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/CoderWithMean.h
+cstdio
+-
+cstring
+-
+iostream
+-
+clr.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/clr.h
+coder.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/coder.h
+file.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/file.h
+list.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/list.h
+simple_model.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/simple_model.h
+table.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/table.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/ProgressBar.cc
+ProgressBar.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/ProgressBar.h
+time.h
+-
+climits
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/ProgressBar.h
+chrono
+-
+ctime
+-
+iomanip
+-
+iostream
+-
+Timer.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/Timer.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/Timer.cc
+Timer.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/Timer.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/Timer.h
+atomic
+-
+chrono
+-
+condition_variable
+-
+functional
+-
+memory
+-
+thread
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/clr.h
+stdint.h
+-
+stdlib.h
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/coder.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/file.cc
+file.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/file.h
+climits
+-
+cstdlib
+-
+cstring
+-
+exception
+-
+stdexcept
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/file.h
+cstdio
+-
+string
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/list.h
+stdlib.h
+-
+string.h
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/mytime.cc
+mytime.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/mytime.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/mytime.h
+chrono
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/show.cc
+show.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/show.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/show.h
+iomanip
+-
+iostream
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/simple_model.h
+iostream
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/table.h
+iostream
+-
+

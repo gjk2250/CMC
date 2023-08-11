@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/arguments.c
+arguments.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/arguments.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/arguments.h
+string.h
+-
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/showUsage.c
+stdio.h
+-
+arguments.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/arguments.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/list.c
+list.h
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/list.h
+
+/home/gjk/下载/附件４：ACO-master (1)/ACO-master/src/list.h
+stdlib.h
+-
+string.h
+-
+
