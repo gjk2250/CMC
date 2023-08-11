@@ -1,5 +1,7 @@
 # CMC
 CMC is a lossless quality scores compression algorithm, which is an optimized ACO algorithm for compressing small sample genetic data
+# File
+The flie experiment corresponds to algorithm 1 in the paper,and the CMC-master corresponds to algorithm 2 in the paper.
 # Installing
 CMC can be used on Windows,Linux or Mac. We only provide a source distribution and allow users to test or improve. 
 
